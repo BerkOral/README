@@ -1,0 +1,2 @@
+# README
+Password Strength Checker
